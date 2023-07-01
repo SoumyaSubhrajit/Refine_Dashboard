@@ -1,3 +1,5 @@
+// This is the chat info that company revenu data and it been modify by using "AppexOption";
+
 import { ApexOptions } from 'apexcharts';
 
 export const TotalRevenueSeries = [
